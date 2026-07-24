@@ -12,4 +12,4 @@ Webbplatsen är statisk och avsedd att publiceras med GitHub Pages.
 3. Välj **Deploy from a branch**.
 4. Välj `main` och `/ (root)`.
 
-Supportadress läggs till före App Store-lanseringen.
+Support: [kylkort.support@gmail.com](mailto:kylkort.support@gmail.com)
